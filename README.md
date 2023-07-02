@@ -9,11 +9,11 @@ This is a simple recipe application built with Flask.
  2. Install the dependencies:
  3. pip install -r requirements.txt
  4. Set up the database:
-     flask db init
-     flask db migrate
-     flask db upgrade
+     --> flask db init
+     --> flask db migrate
+     --> flask db upgrade
 5. Run the application:
-   flask run
+   --> flask run
 
 
 The application should now be running on `http://localhost:5000`.
